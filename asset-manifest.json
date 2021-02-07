@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.adb78e64.chunk.css",
+    "main.js": "/static/js/main.ea0f9ef6.chunk.js",
+    "main.js.map": "/static/js/main.ea0f9ef6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e688a772.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e688a772.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.2156be10.chunk.js": "/static/js/2.2156be10.chunk.js",
+    "static/js/2.2156be10.chunk.js.map": "/static/js/2.2156be10.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.adb78e64.chunk.css.map": "/static/css/main.adb78e64.chunk.css.map",
+    "static/js/2.2156be10.chunk.js.LICENSE.txt": "/static/js/2.2156be10.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bg_potrait.ccd0ca30.jpg",
+    "static/media/easy_cart.eaa471c3.jpg": "/static/media/easy_cart.eaa471c3.jpg",
+    "static/media/java_calculator.b281546c.jpg": "/static/media/java_calculator.b281546c.jpg",
+    "static/media/me.4c93c5a4.jpg": "/static/media/me.4c93c5a4.jpg",
+    "static/media/movie_master.8520779c.jpg": "/static/media/movie_master.8520779c.jpg",
+    "static/media/netflix_clone.d70c02e3.jpg": "/static/media/netflix_clone.d70c02e3.jpg",
+    "static/media/personal_website.ccb7fca8.jpg": "/static/media/personal_website.ccb7fca8.jpg",
+    "static/media/python_calculator.e6c5c069.jpg": "/static/media/python_calculator.e6c5c069.jpg",
+    "static/media/weather_app.ff167052.jpg": "/static/media/weather_app.ff167052.jpg",
+    "static/media/whatsapp_clone.b23960f3.jpg": "/static/media/whatsapp_clone.b23960f3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e688a772.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2156be10.chunk.js",
+    "static/css/main.adb78e64.chunk.css",
+    "static/js/main.ea0f9ef6.chunk.js"
+  ]
+}
