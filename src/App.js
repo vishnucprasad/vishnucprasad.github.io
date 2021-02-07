@@ -5,6 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from "./components/Home";
 import About from "./components/About";
 import Resume from "./components/Resume";
+import Services from "./components/Services";
 
 const App = () => {
     return (
@@ -14,11 +15,14 @@ const App = () => {
                     <Route path="/" exact >
                         <Home />
                     </Route>
-                    <Route path="/about" exact >
+                    <Route path="/about">
                         <About />
                     </Route>
-                    <Route path="/resume" exact >
+                    <Route path="/resume">
                         <Resume />
+                    </Route>
+                    <Route path="/services">
+                        <Services />
                     </Route>
                 </Router>
             </AnimatePresence>
