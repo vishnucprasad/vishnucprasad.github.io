@@ -8,6 +8,7 @@ import Resume from "./components/Resume";
 import Services from "./components/Services";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
+import Credits from "./components/Credits";
 
 const App = () => {
     return (
@@ -34,6 +35,7 @@ const App = () => {
                     </Route>
                 </Router>
             </AnimatePresence>
+            <Credits />
         </div>
     );
 }
