@@ -7,10 +7,15 @@ import InstagramIcon from "@material-ui/icons/Instagram";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import MenuIcon from "@material-ui/icons/Menu";
+import { motion } from "framer-motion";
 
 const Header = () => {
   return (
-    <div>
+    <motion.div
+      initial={{ opacity: 0, y: -20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5, delay: 0.2 }}
+    >
       <header id="header" className="header-top d-none d-md-flex">
         <Container>
           <h1>
@@ -128,7 +133,7 @@ const Header = () => {
           </Card>
         </Accordion>
       </div>
-    </div>
+    </motion.div>
   );
 };
 
