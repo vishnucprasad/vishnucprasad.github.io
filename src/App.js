@@ -7,6 +7,7 @@ import About from "./components/About";
 import Resume from "./components/Resume";
 import Services from "./components/Services";
 import Portfolio from "./components/Portfolio";
+import Contact from "./components/Contact";
 
 const App = () => {
     return (
@@ -27,6 +28,9 @@ const App = () => {
                     </Route>
                     <Route path="/portfolio">
                         <Portfolio />
+                    </Route>
+                    <Route path="/contact">
+                        <Contact />
                     </Route>
                 </Router>
             </AnimatePresence>
