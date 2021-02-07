@@ -29,7 +29,7 @@ const Portfolio = () => {
         transition={{ duration: 0.5, delay: 0.2 }}
       >
         <section id="portfolio" className="portfolio">
-          <Container style={{minHeight: '88vh'}}>
+          <Container style={{ minHeight: "88vh" }}>
             <div className="section-title">
               <h2>Portfolio</h2>
               <p>My Works</p>
@@ -428,55 +428,60 @@ const Portfolio = () => {
                 </Row>
               </div>
             </Route>
-            <Route path="/portfolio/app"></Route>
-            <div>
-              <Row className="portfolio-container">
-                <Col lg={4} md={6} className="portfolio-item filter-app">
-                  <motion.div
-                    initial={{ opacity: 0, x: 100 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ duration: 0.5, delay: 0.2 }}
-                    className="portfolio-wrap"
-                  >
-                    <img src={pythonCalculator} className="img-fluid" alt="" />
-                    <div className="portfolio-info">
-                      <h4>Calculator Python</h4>
-                      <p>App</p>
-                      <div className="portfolio-links">
-                        <a
-                          href="https://github.com/Vishnu-C-Prasad/Tkinter_Calculator"
-                          title="Project link"
-                        >
-                          <LinkIcon />
-                        </a>
+            <Route path="/portfolio/app">
+              <div>
+                <Row className="portfolio-container">
+                  <Col lg={4} md={6} className="portfolio-item filter-app">
+                    <motion.div
+                      initial={{ opacity: 0, x: 100 }}
+                      animate={{ opacity: 1, x: 0 }}
+                      transition={{ duration: 0.5, delay: 0.2 }}
+                      className="portfolio-wrap"
+                    >
+                      <img
+                        src={pythonCalculator}
+                        className="img-fluid"
+                        alt=""
+                      />
+                      <div className="portfolio-info">
+                        <h4>Calculator Python</h4>
+                        <p>App</p>
+                        <div className="portfolio-links">
+                          <a
+                            href="https://github.com/Vishnu-C-Prasad/Tkinter_Calculator"
+                            title="Project link"
+                          >
+                            <LinkIcon />
+                          </a>
+                        </div>
                       </div>
-                    </div>
-                  </motion.div>
-                </Col>
-                <Col lg={4} md={6} className="portfolio-item filter-app">
-                  <motion.div
-                    initial={{ opacity: 0, x: 100 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ duration: 0.5, delay: 0.4 }}
-                    className="portfolio-wrap"
-                  >
-                    <img src={javaClaculator} className="img-fluid" alt="" />
-                    <div className="portfolio-info">
-                      <h4>Calculator Java</h4>
-                      <p>App</p>
-                      <div className="portfolio-links">
-                        <a
-                          href="https://github.com/Vishnu-C-Prasad/swingCalculator"
-                          title="Project link"
-                        >
-                          <LinkIcon />
-                        </a>
+                    </motion.div>
+                  </Col>
+                  <Col lg={4} md={6} className="portfolio-item filter-app">
+                    <motion.div
+                      initial={{ opacity: 0, x: 100 }}
+                      animate={{ opacity: 1, x: 0 }}
+                      transition={{ duration: 0.5, delay: 0.4 }}
+                      className="portfolio-wrap"
+                    >
+                      <img src={javaClaculator} className="img-fluid" alt="" />
+                      <div className="portfolio-info">
+                        <h4>Calculator Java</h4>
+                        <p>App</p>
+                        <div className="portfolio-links">
+                          <a
+                            href="https://github.com/Vishnu-C-Prasad/swingCalculator"
+                            title="Project link"
+                          >
+                            <LinkIcon />
+                          </a>
+                        </div>
                       </div>
-                    </div>
-                  </motion.div>
-                </Col>
-              </Row>
-            </div>
+                    </motion.div>
+                  </Col>
+                </Row>
+              </div>
+            </Route>
           </Container>
         </section>
       </motion.div>
