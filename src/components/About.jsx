@@ -90,28 +90,28 @@ const About = () => {
               <Col lg={3} md={6}>
                 <div className="count-box">
                   <CodeIcon />
-                  <span data-toggle="counter-up">13</span>
-                  <p>Web Development Projects</p>
+                  <span>15</span>
+                  <p>Web Projects</p>
                 </div>
               </Col>
               <Col lg={3} md={6} className="mt-5 mt-md-0">
                 <div className="count-box">
                   <AssignmentIcon />
-                  <span data-toggle="counter-up">15</span>
+                  <span>17</span>
                   <p>Total Projects</p>
                 </div>
               </Col>
               <Col lg={3} md={6} className="mt-5 mt-lg-0">
                 <div className="count-box">
                   <HeadsetMicIcon />
-                  <span data-toggle="counter-up">24</span>
+                  <span>24</span>
                   <p>Hours Support</p>
                 </div>
               </Col>
               <Col lg={3} md={6} className="mt-5 mt-lg-0">
                 <div className="count-box">
                   <PeopleIcon />
-                  <span data-toggle="counter-up">1</span>
+                  <span>1</span>
                   <p>Organization</p>
                 </div>
               </Col>

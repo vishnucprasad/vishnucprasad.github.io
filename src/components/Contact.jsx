@@ -12,10 +12,10 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 
 const Contact = () => {
-  const [name, setName] = useState('');
-  const [email, setEmail] = useState('');
-  const [subject, setSubject] = useState('');
-  const [message, setMessage] = useState('');
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [subject, setSubject] = useState("");
+  const [message, setMessage] = useState("");
 
   const handleSubmit = (event) => {
     event.preventDefault();
@@ -29,16 +29,16 @@ const Contact = () => {
         "Content-type": "application/x-www-form-urlencoded; charset=UTF-8",
       },
       credentials: "include",
-      body: `data=${JSON.stringify({name, email, subject, message})}`,
+      body: `data=${JSON.stringify({ name, email, subject, message })}`,
     })
       .then((response) => {
         console.log(response);
         document.getElementById("loading").style.display = "none";
         document.getElementById("sent-message").style.display = "block";
-        setName('');
-        setEmail('');
-        setSubject('');
-        setMessage('');
+        setName("");
+        setEmail("");
+        setSubject("");
+        setMessage("");
       })
       .catch((err) => {
         console.log(err);
@@ -118,7 +118,7 @@ const Contact = () => {
                   <h3>Email Me</h3>
                   <p>
                     <a href="mailto:mr.vishnucp001@outlook.com">
-                      mr.vishnu.connect@outlook.com
+                      connect.vishnucp@gmail.com
                     </a>
                   </p>
                 </div>

@@ -37,7 +37,7 @@ const Resume = () => {
                     <ul>
                       <li>Kanjirappally, Kottaym, Kerala</li>
                       <li>+91 8157983670</li>
-                      <li>mr.vishnu.connect@outlook.com</li>
+                      <li>connect.vishnucp@gmail.com</li>
                     </ul>
                   </p>
                 </div>
