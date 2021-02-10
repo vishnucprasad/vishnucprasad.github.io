@@ -98,7 +98,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/EasyCart"
+                            href="https://github.com/vishnucprasad/EasyCart"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -120,7 +120,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/Node-Weather-App"
+                            href="https://github.com/vishnucprasad/Netflix-Clone"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -142,7 +142,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/WhatsApp-Clone"
+                            href="https://github.com/vishnucprasad/WhatsApp-Clone"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -164,7 +164,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/MySite"
+                            href="https://github.com/vishnucprasad/Node-Weather-App"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -186,7 +186,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/Personal-Website"
+                            href="https://github.com/vishnucprasad/Personal-Website"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -208,7 +208,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/PersonalWebsite"
+                            href="https://github.com/vishnucprasad/vishnucprasad.github.io"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -234,7 +234,7 @@ const Portfolio = () => {
                         <p>App</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/Tkinter_Calculator"
+                            href="https://github.com/vishnucprasad/Tkinter_Calculator"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -256,7 +256,7 @@ const Portfolio = () => {
                         <p>App</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/swingCalculator"
+                            href="https://github.com/vishnucprasad/swingCalculator"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -306,7 +306,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/EasyCart"
+                            href="https://github.com/vishnucprasad/EasyCart"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -328,7 +328,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/Node-Weather-App"
+                            href="https://github.com/vishnucprasad/Netflix-Clone"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -350,7 +350,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/WhatsApp-Clone"
+                            href="https://github.com/vishnucprasad/WhatsApp-Clone"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -372,7 +372,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/MySite"
+                            href="https://github.com/vishnucprasad/Node-Weather-App"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -394,7 +394,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/Personal-Website"
+                            href="https://github.com/vishnucprasad/Personal-Website"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -416,7 +416,7 @@ const Portfolio = () => {
                         <p>Web</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/PersonalWebsite"
+                            href="https://github.com/vishnucprasad/vishnucprasad.github.io"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -448,7 +448,7 @@ const Portfolio = () => {
                         <p>App</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/Tkinter_Calculator"
+                            href="https://github.com/vishnucprasad/Tkinter_Calculator"
                             title="Project link"
                           >
                             <LinkIcon />
@@ -470,7 +470,7 @@ const Portfolio = () => {
                         <p>App</p>
                         <div className="portfolio-links">
                           <a
-                            href="https://github.com/Vishnu-C-Prasad/swingCalculator"
+                            href="https://github.com/vishnucprasad/swingCalculator"
                             title="Project link"
                           >
                             <LinkIcon />
