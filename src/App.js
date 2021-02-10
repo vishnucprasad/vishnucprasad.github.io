@@ -14,8 +14,8 @@ const App = () => {
     return (
         <div className="App">
             <AnimatePresence>
-                <Router>
-                    <Route path="/" exact >
+                <Router basename='/'>
+                    <Route exact path="/" >
                         <Home />
                     </Route>
                     <Route path="/about">
