@@ -86,7 +86,7 @@ const Home = () => {
                 <LinkedInIcon />
               </a>
               <a
-                href="https://github.com/Vishnu-C-Prasad"
+                href="https://github.com/vishnucprasad"
                 title="GitHub"
                 className="GitHub"
                 target="_blank"
