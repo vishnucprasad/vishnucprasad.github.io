@@ -25,7 +25,7 @@ const About = () => {
             </div>
             <Row>
               <Col lg={4}>
-                <img src={MyImage} className="img-fluid" alt="" />
+                <img src={MyImage} className="img-fluid my-img" alt="" />
               </Col>
               <Col lg={8} className="content">
                 <h3>Web Designer &amp; Developer</h3>
