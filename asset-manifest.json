@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.adb78e64.chunk.css",
-    "main.js": "/static/js/main.27665668.chunk.js",
-    "main.js.map": "/static/js/main.27665668.chunk.js.map",
+    "main.js": "/static/js/main.5635a467.chunk.js",
+    "main.js.map": "/static/js/main.5635a467.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e688a772.js",
     "runtime-main.js.map": "/static/js/runtime-main.e688a772.js.map",
     "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
@@ -17,7 +17,7 @@
     "static/media/App.css": "/static/media/bg_potrait.ccd0ca30.jpg",
     "static/media/easy_cart.eaa471c3.jpg": "/static/media/easy_cart.eaa471c3.jpg",
     "static/media/java_calculator.b281546c.jpg": "/static/media/java_calculator.b281546c.jpg",
-    "static/media/me.4c93c5a4.jpg": "/static/media/me.4c93c5a4.jpg",
+    "static/media/me.e0710329.jpg": "/static/media/me.e0710329.jpg",
     "static/media/movie_master.8520779c.jpg": "/static/media/movie_master.8520779c.jpg",
     "static/media/netflix_clone.d70c02e3.jpg": "/static/media/netflix_clone.d70c02e3.jpg",
     "static/media/personal_website.ccb7fca8.jpg": "/static/media/personal_website.ccb7fca8.jpg",
@@ -30,6 +30,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.2156be10.chunk.js",
     "static/css/main.adb78e64.chunk.css",
-    "static/js/main.27665668.chunk.js"
+    "static/js/main.5635a467.chunk.js"
   ]
 }
