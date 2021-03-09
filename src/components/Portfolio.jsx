@@ -43,8 +43,7 @@ const Portfolio = () => {
                       className="filter-active"
                       onClick={() => setActive("filter-all")}
                     >
-                      {" "}
-                      All{" "}
+                      All
                     </li>
                   </Link>
                   <Link to="/portfolio/web">
@@ -65,9 +64,9 @@ const Portfolio = () => {
                 <Row className="portfolio-container">
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.4 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0 }}
                       className="portfolio-wrap"
                     >
                       <img src={movieMaster} className="img-fluid" alt="" />
@@ -87,9 +86,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.4 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.1 }}
                       className="portfolio-wrap"
                     >
                       <img src={easyCart} className="img-fluid" alt="" />
@@ -109,9 +108,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.6 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.2 }}
                       className="portfolio-wrap"
                     >
                       <img src={netflixClone} className="img-fluid" alt="" />
@@ -131,9 +130,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.6 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.3 }}
                       className="portfolio-wrap"
                     >
                       <img src={whatsappClone} className="img-fluid" alt="" />
@@ -153,9 +152,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.4 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.4 }}
                       className="portfolio-wrap"
                     >
                       <img src={weatherApp} className="img-fluid" alt="" />
@@ -175,9 +174,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: -100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.2 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.5 }}
                       className="portfolio-wrap"
                     >
                       <img src={personalWebsite} className="img-fluid" alt="" />
@@ -197,9 +196,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: -100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.2 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.6 }}
                       className="portfolio-wrap"
                     >
                       <img src={personalWebsite} className="img-fluid" alt="" />
@@ -219,9 +218,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.4 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.7 }}
                       className="portfolio-wrap"
                     >
                       <img
@@ -245,9 +244,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.6 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.8 }}
                       className="portfolio-wrap"
                     >
                       <img src={javaClaculator} className="img-fluid" alt="" />
@@ -273,9 +272,9 @@ const Portfolio = () => {
                 <Row className="portfolio-container">
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.4 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0 }}
                       className="portfolio-wrap"
                     >
                       <img src={movieMaster} className="img-fluid" alt="" />
@@ -295,9 +294,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.4 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.1 }}
                       className="portfolio-wrap"
                     >
                       <img src={easyCart} className="img-fluid" alt="" />
@@ -317,9 +316,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.6 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.2 }}
                       className="portfolio-wrap"
                     >
                       <img src={netflixClone} className="img-fluid" alt="" />
@@ -339,9 +338,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.6 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.3 }}
                       className="portfolio-wrap"
                     >
                       <img src={whatsappClone} className="img-fluid" alt="" />
@@ -361,9 +360,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.4 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.4 }}
                       className="portfolio-wrap"
                     >
                       <img src={weatherApp} className="img-fluid" alt="" />
@@ -383,9 +382,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: -100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.2 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.5 }}
                       className="portfolio-wrap"
                     >
                       <img src={personalWebsite} className="img-fluid" alt="" />
@@ -405,9 +404,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: -100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.2 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.6 }}
                       className="portfolio-wrap"
                     >
                       <img src={personalWebsite} className="img-fluid" alt="" />
@@ -433,9 +432,9 @@ const Portfolio = () => {
                 <Row className="portfolio-container">
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.2 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0 }}
                       className="portfolio-wrap"
                     >
                       <img
@@ -459,9 +458,9 @@ const Portfolio = () => {
                   </Col>
                   <Col lg={4} md={6} className="portfolio-item filter-app">
                     <motion.div
-                      initial={{ opacity: 0, x: 100 }}
-                      animate={{ opacity: 1, x: 0 }}
-                      transition={{ duration: 0.5, delay: 0.4 }}
+                      initial={{ x: 1200 }}
+                      animate={{ x: 0 }}
+                      transition={{ duration: 0.1, delay: 0.1 }}
                       className="portfolio-wrap"
                     >
                       <img src={javaClaculator} className="img-fluid" alt="" />
